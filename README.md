@@ -9,6 +9,8 @@ in this folder there will be 3 files
 2)bar chat
 3)frame and chat
 
+sample CSV file also included in this project folder
+
 in 'data frame' file the data from CSV will be read using pands and display it in Tkinter GUI as data frame
 
 Bar graphs are used to compare things between different groups or to track changes over time. 
@@ -16,4 +18,6 @@ Bar graphs are used to compare things between different groups or to track chang
 
 'frame and chat' file you will see both bar chat and csv file data as data frame
 
-NOTE: if you need to read different csv file please update path, if you need to display different value in bar chat please change path and column names 
+NOTE:
+if you need to read different csv file please update path, 
+if you need to display different value in bar chat please change path and column names 
