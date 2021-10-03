@@ -20,5 +20,5 @@ Bar graphs are used to compare things between different groups or to track chang
 
 <a style="color:blue;">'frame and chat'</a> file you will see both bar chat and csv file data as data frame
 
-
-
+</body>
+</html>
