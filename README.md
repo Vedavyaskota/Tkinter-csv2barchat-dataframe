@@ -22,3 +22,11 @@ Bar graphs are used to compare things between different groups or to track chang
 
 
 
+<style>
+ a.{
+  color:"red";
+  }
+  
+  
+  </style>
+  
