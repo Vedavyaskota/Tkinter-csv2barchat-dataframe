@@ -18,15 +18,6 @@ Bar graphs are used to compare things between different groups or to track chang
 'bar char' file will display two colums from csv file Eg: 'Customer' and 'Lbl By Days' are taken as default in x,y values. you can change them as you like
 
 
-<a>'frame and chat'<a> file you will see both bar chat and csv file data as data frame
+<a style="color:blue;">'frame and chat'<a> file you will see both bar chat and csv file data as data frame
 
 
-
-<style>
- a.{
-  color:"red";
-  }
-  
-  
-  </style>
-  
