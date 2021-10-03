@@ -4,7 +4,9 @@ This is a project to read data from CSV file using pandas to display as data fra
 Hi,
 this is vedavyas kota. i am here to explain this project file
 
-in this folder there will be 3 files 
+in this project we read data from csv file and display it as dataframe in Tkinter using pandas, and we had also done bar chat from csv file data by comparing two column
+
+in this folder there will be 3 files :
 1)data frame
 2)bar chat
 3)frame and chat
