@@ -1,7 +1,7 @@
 # Tkinter-csv2barchat-dataframe
 This is a project to read data from CSV file using pandas to display as data frame. which is interpreted as bar chats using matplotlib and displayed in Tkinter GUI 
 
-
+<html><body>
 Hi,
 this is vedavyas kota. i am here to explain this project file
 
@@ -21,3 +21,5 @@ Bar graphs are used to compare things between different groups or to track chang
 <a style="color:blue;">'frame and chat'<a> file you will see both bar chat and csv file data as data frame
 
 
+  </body>
+  </html>
